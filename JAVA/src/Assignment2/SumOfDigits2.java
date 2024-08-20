@@ -14,7 +14,7 @@ public class SumOfDigits2 {
 		char[] t=ch;int sum=0;
 		for(int i=0;i<ch.length;i++) {
 			
-			if(ch[i]) {
+			if() {
 				sum=sum*10+(ch[i]-48);
 			}
 			else {
